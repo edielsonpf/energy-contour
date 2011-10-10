@@ -1,0 +1,13 @@
+./results/mean_vars/mean_vc_186_f_03_ap_0225.txt
+./results/mean_vars/mean_vc_200_f_02_ap_015.txt
+./results/mean_vars/mean_vc_200_f_02_ap_030.txt
+./results/mean_vars/mean_vc_200_f_04_ap_015.txt
+./results/mean_vars/mean_vc_200_f_04_ap_030.txt
+./results/mean_vars/mean_vc_220_f_013_ap_0225.txt
+./results/mean_vars/mean_vc_220_f_047_ap_0225.txt
+./results/mean_vars/mean_vc_220_f_03_ap_010.txt
+./results/mean_vars/mean_vc_240_f_02_ap_015.txt
+./results/mean_vars/mean_vc_240_f_02_ap_030.txt
+./results/mean_vars/mean_vc_240_f_04_ap_015.txt
+./results/mean_vars/mean_vc_240_f_04_ap_030.txt
+./results/mean_vars/mean_vc_254_f_03_ap_0225.txt
