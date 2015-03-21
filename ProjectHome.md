@@ -1,0 +1,1 @@
+This project calculates the energy contour of audio signals using Octave.
